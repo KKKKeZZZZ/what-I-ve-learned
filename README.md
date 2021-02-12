@@ -10,3 +10,12 @@ This project is to record what I've learned during my working. May include .net,
 2. using jQuery to get an empty value of the html input, its value is ""(empty string), not null
 
    WIL: detect empty for empty value using .val() == ""
+   
+//12022021
+3. ajax using datatype json but in the handler page you return a value but not in json format, in the ajax side it will jump to error section. 
+
+   so the functional code will be implemented in error scope using function(xht, status, error), 
+   
+   and the return value can be accessed via the xhr.responseText  
+   
+   p.s. i dont know which genius code in this way, it actually killed tons of my time
