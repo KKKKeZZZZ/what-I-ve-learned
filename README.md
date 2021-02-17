@@ -26,4 +26,4 @@ This project is to record what I've learned during my working. May include .net,
 
 #4. when using json format data, the tab value is the poison, it will crush the whole json, but users ALWAYS like it.
 
-    WIL: for my case, I will remove all tab values in the string I wanna write to db. here it is "		"(there is a space in front of the tab value.)
+    WIL: for my case, I will remove all tab values in the string I wanna write to db. here it is "	"
