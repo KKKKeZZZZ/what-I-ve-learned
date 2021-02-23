@@ -27,3 +27,8 @@ This project is to record what I've learned during my working. May include .net,
 #4. when using json format data, the tab value is the poison, it will crush the whole json, but users ALWAYS like it.
 
    WIL: for my case, I will remove all tab values in the string I wanna write to db. here it is "	"
+   
+//23022021
+#5. When using ajax, the 'success' section cannot be using as 'Success'!
+   
+   WIL: CASE SENSITIVE!
