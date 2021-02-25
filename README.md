@@ -39,8 +39,11 @@ This project is to record what I've learned during my working. May include .net,
 #6. attribute selector is useful. For example: 
 
    "$('td[name ="tcol1"]')   // matches exactly 'tcol1'
+   
    $('td[name^="tcol"]' )   // matches those that begin with 'tcol'
+   
    $('td[name$="tcol"]' )   // matches those that end with 'tcol'
+   
    $('td[name*="tcol"]' )   // matches those that contain 'tcol'"
 
    Then use this.name.substring() to get the specific attibute of the element you want. Then you can set all elements at the same time.
