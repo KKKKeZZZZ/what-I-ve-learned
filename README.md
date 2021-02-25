@@ -33,3 +33,16 @@ This project is to record what I've learned during my working. May include .net,
 #5. When using ajax, the 'success' section cannot be using as 'Success'!
    
    WIL: CASE SENSITIVE!
+
+//26022021 
+
+#6. attribute selector is useful. For example: 
+
+   "$('td[name ="tcol1"]')   // matches exactly 'tcol1'
+   $('td[name^="tcol"]' )   // matches those that begin with 'tcol'
+   $('td[name$="tcol"]' )   // matches those that end with 'tcol'
+   $('td[name*="tcol"]' )   // matches those that contain 'tcol'"
+
+   Then use this.name.substring() to get the specific attibute of the element you want. Then you can set all elements at the same time.
+ 
+   p.s. I hope I can know this two weeks ago
