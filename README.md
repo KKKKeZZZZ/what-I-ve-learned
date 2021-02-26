@@ -49,3 +49,9 @@ This project is to record what I've learned during my working. May include .net,
    Then use this.name.substring() to get the specific attibute of the element you want. Then you can set all elements at the same time.
  
    p.s. I hope I can know this two weeks ago
+   
+//26022021
+
+#7. url - absolute path & relative path, last guy does not care this feature, it really made some issues.
+
+   WIL: not using "/" in front of the url means relative path, otherwise is absolute path. They basicly talk about locating resources
