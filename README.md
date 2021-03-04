@@ -55,3 +55,7 @@ This project is to record what I've learned during my working. May include .net,
 #7. url - absolute path & relative path, last guy does not care this feature, it really made some issues.
 
    WIL: using "/" in front of the url means relative path, otherwise is absolute path. They basicly talk about locating resources
+   
+//04032021
+
+#8. '.toggle()' this function is useful, it can easily hide and show element in the front-end, use it more often!
