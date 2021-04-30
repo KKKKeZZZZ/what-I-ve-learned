@@ -59,3 +59,7 @@ This project is to record what I've learned during my working. May include .net,
 //04032021
 
 #8. '.toggle()' this function is useful, it can easily hide and show element in the front-end, use it more often!
+
+//30042021
+
+#9. '(event.detail <2)' to test if user double or multi click the button, it really saved my day, avoid multi submitting
