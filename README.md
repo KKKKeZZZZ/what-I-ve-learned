@@ -63,3 +63,8 @@ This project is to record what I've learned during my working. May include .net,
 //30042021
 
 #9. '(event.detail <2)' to test if user double or multi click the button, it really saved my day, avoid multi submitting
+
+//08062021 
+
+#10. reload the asp element without refreshing the page. Put element under the "UpdatePanel" (should be a 'ScriptManager' declared before)
+     see https://stackoverflow.com/a/52426041/14140832 for more details
