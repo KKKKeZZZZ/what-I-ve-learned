@@ -68,3 +68,7 @@ This project is to record what I've learned during my working. May include .net,
 
 #10. reload the asp element without refreshing the page. Put element under the "UpdatePanel" (should be a 'ScriptManager' declared before)
      see https://stackoverflow.com/a/52426041/14140832 for more details
+
+//15072021
+
+#11. Javascript: using regex to remove html tag - 'replaceall(/<[^>]+>/ig, '')'
