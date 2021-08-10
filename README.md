@@ -72,3 +72,7 @@ This project is to record what I've learned during my working. May include .net,
 //15072021
 
 #11. Javascript: using regex to remove html tag - 'replaceall(/<[^>]+>/ig, '')'
+
+//10082021 
+
+#12. '@media print' using this scope in css to set the css for printing 
