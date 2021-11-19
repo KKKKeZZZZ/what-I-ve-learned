@@ -76,3 +76,7 @@ This project is to record what I've learned during my working. May include .net,
 //10082021 
 
 #12. '@media print' using this scope in css to set the css for printing 
+
+//19112021
+
+#13. HttpContext.Current.User.Identity.Name is Empty. see:https://grekai.wordpress.com/2011/03/31/httpcontext-current-user-identity-name-is-empty/
